@@ -14,6 +14,8 @@ Feel free to look and compare, this project is under MIT licence.
 
 Special thanks to [VBA-tools](https://github.com/VBA-tools/VBA-JSON) for their great module to Excel VBA, This should be applied by default but if not then the .bs file can be found on their repo.
 
+Also to [Excelerator Soulutions](https://excelerator.solutions/) for their guide
+
 # Possible Issues
 
 Here are the issues we encountered during development:
